@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+body { text-align: center;}
+
+iframe {
+  width: 404px; height: 400px;
+}
+
+div.titulo > h2 { text-align: center;}
+
+    div.video {
+    background-color: white;
+    padding-top: 21px;
+    position: relative;
+    padding-bottom: 47%;}
+    
+
+    div.video > iframe {
+    position: absolute;
+    top: 5%;
+    left: 20%;
+    width: 60%;
+    height: 70%;}
